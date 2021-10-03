@@ -1,5 +1,5 @@
 ---
-title: Cycling notes
+title: Riding the Cape Cod Rail Trail (October 2021)
 ---
 
 ## Am I able to ride 30 miles?
