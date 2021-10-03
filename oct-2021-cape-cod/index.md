@@ -8,6 +8,7 @@ We'll be staying two nights at [Camp Greenough] in Yartmouth, MA. We
 have a pair of bicycle rides planned for Saturday.
 
 - [Notes about the ride](cycling.html)
+- [Carrying things on your bicycle](carrying.html)
 - [All the maps](maps/)
 
 ##  Schedule
