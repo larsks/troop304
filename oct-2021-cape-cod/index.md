@@ -7,7 +7,7 @@ title: Riding the Cape Cod Rail Trail (October 2021)
 We'll be staying two nights at [Camp Greenough] in Yartmouth, MA. We
 have a pair of bicycle rides planned for Saturday.
 
-- [Notes about the ride](cycling.md)
+- [Notes about the ride](cycling.html)
 - [All the maps](maps/)
 
 ##  Schedule
