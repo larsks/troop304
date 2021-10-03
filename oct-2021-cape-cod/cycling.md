@@ -5,10 +5,11 @@ title: Some notes on the ride
 ## Am I able to ride 30 miles?
 
 Probably! If you're even moderately fit (and as long as your bike is
-in good condition and of an appropriate size), 15 miles isn't going to be
-much of a challenge, especially on a rail trail (which, because it
+in good condition and of an appropriate size), 15 miles isn't going to
+be much of a challenge, especially on a rail trail (which, because it
 runs along an old railroad bed, is very, very flat). Your legs might
-feel a bit tired on the way back, but you'll make it!
+feel a bit tired on the way back, but you'll make it!  We'll be taking
+it easy while riding, and we'll be taking a long break for lunch.
 
 ## What you'll need to bring on the ride
 
@@ -35,8 +36,8 @@ in temperature and activity.
 
 ## Navigating
 
-Bicycle tours would traditionally provided you with a "cue sheet",
-which is a table of directions, like these directions to get from the
+Bicycle tours would traditionally provide you with a "cue sheet",
+which is a list of directions, like these directions to get from the
 United Methodist Church to Belmont High School:
 
 | # | Go | onto Road/Street | Miles | Total |

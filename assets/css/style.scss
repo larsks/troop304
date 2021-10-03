@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+figure {
+	border: thin solid black;
+	padding: 10px;
+	margin: 10px;
+	width: fit-content;
+}
+
+#forkme_banner {
+	display: none;
+}
+
+#navigation {
+	padding: 5px;
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+
+	li {
+		display: inline;
+	}
+
+	a {
+		text-decoration: none;
+	}
+}
