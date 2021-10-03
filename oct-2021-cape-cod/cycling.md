@@ -11,6 +11,24 @@ runs along an old railroad bed, is very, very flat). Your legs might
 feel a bit tired on the way back, but you'll make it!  We'll be taking
 it easy while riding, and we'll be taking a long break for lunch.
 
+## Do I need any special clothing?
+
+Not really. For the length of ride we're doing, regular clothing will
+probably be just fine. However, if you already own some sort of
+bicycle shorts, you may want to wear them. Bicycle-specific clothing
+is designed to help keep you comfortable by providing:
+
+- Padding 
+- Moisture wicking: moving sweat away from your body
+- Strategically placed seams to prevent chafing
+
+When people think of bicycle clothing, they often think of tight,
+form-fitting Lycra shorts. While these are fine, they're not the only
+option. It's easy to find more traditional looking shorts that are
+hiding bicycle shorts on the inside.
+
+{% include figure.html url="images/bike-shorts.jpg" description="Bicycle shorts from REI" %}
+
 ## What you'll need to bring on the ride
 
 For our longer ride, you will want to bring the following (which will
