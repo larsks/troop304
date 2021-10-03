@@ -11,6 +11,22 @@ have a pair of bicycle rides planned for Saturday.
 - [Carrying things on your bicycle](carrying.html)
 - [All the maps](maps/)
 
+## Transporting bikes
+
+Last time we had a trip that involved some bicycling, there were
+enough people going with excess bicycle carrying capacity that we were
+able to distribute bikes among the available cars and get everything
+there and back. As we get closer to the trip, we'll take a look at who
+has signed up and see if (a) there are people who need help with
+transporting a bicycle and (b) if there are people with available
+capacity.
+
+If you are looking to add a strap-on bike carrier to your car, the
+Seris "Bones" [series of racks][] are quite nice (but are certainly
+not the only option).
+
+[series of racks]: https://www.saris.com/catalog/racks/trunk
+
 ##  Schedule
 
 ### Friday, October 15
