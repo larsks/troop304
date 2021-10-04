@@ -87,6 +87,7 @@ group we should follow these rules:
 
 - Wear a helmet
 - Bicycle single file
-- Always [signal our turns][]
+- Obey all traffic laws
+- [Signal our turns][]
 
 [signal our turns]: https://www.scouterlife.com/blog/2018/6/5/bicycle-hand-signals
