@@ -1,0 +1,3 @@
+# Merit badges
+
+- [Programming](programming/)
